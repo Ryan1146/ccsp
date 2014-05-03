@@ -3,10 +3,11 @@ fuck
 fuck
 
 fuck
+<<<<<<< HEAD
 fuck
 sfdsf
 
-aaaa
-
-
-bbbbb
+ccc
+=======
+fuck
+>>>>>>> parent of 4492953... sdf
